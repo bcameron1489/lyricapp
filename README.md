@@ -1,3 +1,3 @@
-Git clone
-npm install from root
+Git clone\
+npm install from root\
 npm start  
